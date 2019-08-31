@@ -11,13 +11,22 @@ import SwiftUI
 struct Subview: View {
     
     var imageString: String
-    
+    #if targetEnvironment(macCatalyst)
     var body: some View {
         Image(imageString)
         .resizable()
         .aspectRatio(contentMode: .fill)
         .clipped()
     }
+    #else
+    var body: some View {
+           Image(imageString)
+           .resizable()
+           .aspectRatio(contentMode: .fit)
+           .clipped()
+           .frame(maxWidth: 500, maxHeight: 377)
+       }
+    #endif
 }
 
 #if DEBUG

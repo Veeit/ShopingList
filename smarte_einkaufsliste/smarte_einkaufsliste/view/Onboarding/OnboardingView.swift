@@ -31,14 +31,14 @@ struct OnboardingView: View {
             } else {
                 VStack(alignment: .leading) {
                     PageViewController(currentPageIndex: $currentPageIndex, viewControllers: subviews)
-                        .frame(height: 600)
+                        .frame(height: 500)
                     Group {
                         Text(titles[currentPageIndex])
                             .font(.title)
                         Text(captions[currentPageIndex])
                         .font(.headline)
                         .foregroundColor(.gray)
-                        .frame(width: 500, height: 80, alignment: .leading)
+                        .frame(maxWidth: 500, maxHeight: 80, alignment: .leading)
                         .lineLimit(nil)
                     }
                         .padding()
