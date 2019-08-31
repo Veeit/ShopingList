@@ -57,3 +57,9 @@ Die tests befinden sich in den Ordner `smarte_einkaufslisteTests`  dort liegt di
 ## Wo ist der edit mode ?
 
 Der edit mode ist leicht versteckt, In your list musst du auf den produkt namen klicken um in den edit mode von den item zu kommen. 
+
+## Wie ist die UI aufgebaut ?
+
+Der start screen ist der Add screen, hier kannst du Produkte hinzufügen und schon bevor du sie hinzufügst sehen was die KI draus macht.
+
+In List screen siehst du deine einkaufsliste und kannst die Produkte abharken, löschen und bearbeiten. Hier findest du auch noch eine quick add funkion.
