@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GrammaticalNumber",
+        "repositoryURL": "https://github.com/Cosmo/GrammaticalNumber",
+        "state": {
+          "branch": null,
+          "revision": "27145a4e0f236d0091800b864614ecbe27b0bdab",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
