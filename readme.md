@@ -1,5 +1,4 @@
 # ShopingList
-![INEZ Banner](./INEZ Banner.png)
 
 Die INEZ (Intelligenter Einkaufszettel) oder auch genannt  EZML (Einkaufszettel mit Maschine Learning) ist eine Einkaufsliste die dir helfen soll schneller deine Einkaufsliste zu schreiben. Die App läuft auf MacOS (Beta 10.15 19A546d), iOS (iOS 13) und iPadOS.  Die ganze app ist in swiftUI geschrieben und nutzt zwei ML Models um ein möglichst großes Produkt Portfolio abzudecken.
 

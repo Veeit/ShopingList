@@ -1,0 +1,35 @@
+/*
+  Localizable.strings
+  smarte_einkaufsliste
+
+  Created by Veit Progl on 21.08.19.
+  Copyright © 2019 Veit Progl. All rights reserved.
+*/
+
+// MARK: String File
+// all my things are here.
+// tf = testField
+
+// navigation
+"nav title" = "ShopingList";
+"nav your list" = "your List";
+"nav add to your list" = "add to your List";
+
+//onBoarding
+"onBoarding_1 Title" = "ShopingList";
+"onBoarding_2 Title" = "ML Based shopping List";
+"onBoarding_3 Title" = "SwiftUI for iOS/iPadOS and MacOS";
+
+"onBoarding_1" = "Create a shopping list more quickly and more efficiently!";
+"onBoarding_2" = "INEZ is ML based, so you can just fokus on what to realy need to buy, the ML will predicd the best product and autocomplet your sentence.";
+"onBoarding_3" = "This app is based on SwiftUI, this means that you can enjoy this app on all your devices.";
+
+// add view
+"add title"        = "Add new item:";
+"tf new"           = "New item";
+"get best product" = "Predict best product";
+"predict size"     = "Predict product Size (Categorie)";
+
+// current List
+"your list" = "Your list:";
+"quick add" = "Quick add";

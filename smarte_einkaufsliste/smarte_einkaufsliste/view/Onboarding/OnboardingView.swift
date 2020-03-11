@@ -16,9 +16,9 @@ struct OnboardingView: View {
         UIHostingController(rootView: Subview(imageString: "swiftUIBanner"))
     ]
     
-    var titles = ["INEZ (Intelligent shopping list)", "ML Based shopping List", "SwiftUI for iOS/iPadOS and MacOS"]
+    var titles = ["Smarte ShopingList", "ML Based shopping List", "SwiftUI for iOS/iPadOS and MacOS"]
     
-    var captions =  ["Create a shopping list more quickly and more efficiently with INEZ!", "INEZ is ML based, so you can just fokus on what to realy need to buy, the ML will predicd the best product and autocomplet your sentence.", "This app is based on SwiftUI , this means that you can enjoy this app on all your devices."]
+    var captions =  ["Create a shopping list more quickly and more efficiently!", "It is ML based, so you can just fokus on what to realy need to buy, the ML will predicd the best product and autocomplet your sentence.", "This app is based on SwiftUI , this means that you can enjoy this app on all your devices."]
     
     @State var currentPageIndex = 0
     @State var isDone = false

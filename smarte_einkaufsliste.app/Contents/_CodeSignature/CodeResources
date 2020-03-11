@@ -6,15 +6,15 @@
 	<dict>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		lKjLzrDyYaxOEMeu0R8oeFnrv+Q=
+		LfjM6TvwaQ0ZO+AbQLjgoIj0Yac=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		m6/cAA9Sh02bnofcbVRLugUbnVs=
+		vNjmT7cP3cX5Fje2lct6kIAMlBE=
 		</data>
 		<key>Resources/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		RQmpckNyYDtUTDYm+o14b8ocdzI=
+		sWwWoYagIGYus0myPPmKY4j4I6A=
 		</data>
 		<key>Resources/Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		PwmkCfYFtyUE/+EHQBICV9Qb2Oo=
+		AuDE2RpD6CEaaUEMgz8iBoq+5Hw=
 		</data>
 		<key>Resources/de.lproj/LaunchScreen.strings</key>
 		<dict>
@@ -37,7 +37,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oGuodFIJkOT1IxTc55ALsEOiG+U=
+			4rJeXks+TmwcV0kIG+m3Da3x5SA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -46,7 +46,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CmuyMIUZM25FRJu94CNaWkn2cls=
+			EN4AL2AkMrAYJBvmyEYrJQAvQek=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -69,7 +69,7 @@
 		</data>
 		<key>Resources/smarte_einkaufsliste.momd/smarte_einkaufsliste.omo</key>
 		<data>
-		U3wOqzqh/MaylDS5czM4wSD2Izk=
+		BXoyD083YhPNQLBdnaJJ3MN7NRQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -78,21 +78,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GKVv3zcyuXilsErYeAFXURTqR7S9GVnxjXf3fz0SBGM=
+			GKFMqhpabJNErOgbcRH9nnoXuA5bdnLy1y0lIDAoUIs=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G29El7bK6TKxCs8ZhjADS33rrOkBYALDGBYt+6//Wbk=
+			kHA4ve5jo1IUF8imKeELF9aYevopXNn/uwTzMLB1DCQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BcMoraeekgfjHxV2gz/hAA2DPZHVPJdMWIJz+T2QAlg=
+			UXr5VQcPkT04T2C4gSF3i3lXm3ptluUccphFaalig64=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -106,7 +106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R3/HsET/xzP6K3aiR8RpJ0AkFEtdl8SdOZ05dwpn+wM=
+			+z5MJbYFyOYlrQuHBbTgDsZn0caapCCp2285P94OGKc=
 			</data>
 		</dict>
 		<key>Resources/de.lproj/LaunchScreen.strings</key>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qERwA2GfPSAhQqAePr6enZRMj+/XQsVH1zR+n3q+9cE=
+			TI4o3vyWn4coiEN3pivm4sQXZH1JK/Kdy7dAbVYL9R8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -131,7 +131,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QUpEuTvBFnVFmm9p3HOVJIrfU/vxRuQJKJE9eBUpz1s=
+			f0MIxZlH1bWG8MYVq+TOEoN3hGKwzivvaOaRn+6f31c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -168,7 +168,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+E2sdwS7cgooVNOxibbDmOU1p5BFoY68NZ6WRCOatD0=
+			8uqeCdk3zwMCKn7xR0zwzP61PhAR6yCtEku/Z3FLWs0=
 			</data>
 		</dict>
 	</dict>
